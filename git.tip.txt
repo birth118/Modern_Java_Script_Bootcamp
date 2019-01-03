@@ -1,0 +1,11 @@
+Adding an existing project to GitHub using the command line
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+
+.add the URL for the remote repository where your local repository will be pushed.
+
+git remote add origin remote repository URL 
+https://github.com/birth118/Modern_Java_Script_Bootcamp.git
+
+.Push the changes in your local repository to GitHub.
+git push origin master
