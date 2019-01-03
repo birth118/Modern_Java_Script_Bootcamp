@@ -30,6 +30,5 @@ console.log(convertFahrenheittoCelsius(32))
 
 console.log(convertFahrenheittoCelsius(68))
 
-
 console.log(convertFahrenheittoCelsius(100))
 
